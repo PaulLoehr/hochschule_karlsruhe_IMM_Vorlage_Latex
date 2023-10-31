@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  31 OCT 2023 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  31 OCT 2023 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -200,12 +200,12 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <bilder/HKA_IMM_Wortmarke.pdf, id=1, 306.14375pt x 170.6375pt>
 File: bilder/HKA_IMM_Wortmarke.pdf Graphic file (type pdf)
 <use bilder/HKA_IMM_Wortmarke.pdf>
-Package pdftex.def Info: bilder/HKA_IMM_Wortmarke.pdf  used on input line 45.
+Package pdftex.def Info: bilder/HKA_IMM_Wortmarke.pdf  used on input line 42.
 (pdftex.def)             Requested size: 113.81102pt x 63.4343pt.
 <bilder/HKA_IMM.pdf, id=2, 271.0125pt x 170.6375pt>
 File: bilder/HKA_IMM.pdf Graphic file (type pdf)
 <use bilder/HKA_IMM.pdf>
-Package pdftex.def Info: bilder/HKA_IMM.pdf  used on input line 45.
+Package pdftex.def Info: bilder/HKA_IMM.pdf  used on input line 42.
 (pdftex.def)             Requested size: 113.81102pt x 71.65944pt.
  [1
 
@@ -216,15 +216,15 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3763 strings out of 474928
- 60440 string characters out of 5763562
- 1925785 words of memory out of 5000000
- 25303 multiletter control sequences out of 15000+600000
+ 3757 strings out of 474928
+ 60362 string characters out of 5763562
+ 1924785 words of memory out of 5000000
+ 25297 multiletter control sequences out of 15000+600000
  559885 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,16n,68p,347b,341s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on main.pdf (1 page, 393698 bytes).
+Output written on main.pdf (1 page, 392119 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
